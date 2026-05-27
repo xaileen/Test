@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.log
+test_cooldown.log
+proxy_alive.txt
+state.json
